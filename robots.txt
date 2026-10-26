@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fallingpickaxe-demo.vercel.app/sitemap.xml
+Sitemap: https://falling-pickaxe-demo.vercel.app/sitemap.xml
